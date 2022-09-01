@@ -1,4 +1,2 @@
 # Introduction to Azure Container Apps
-Kamal Rathnayake
-
-# Demo Files
+This repo contains all the demo files used in the session. 
